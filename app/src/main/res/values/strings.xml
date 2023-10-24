@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mylist
+    </string>
+
+<string-array name="Name">
+    <item>Tapendra</item>
+    <item>Ram</item>
+    <item>Kshitij</item>
+    <item>Ramaran</item>
+    <item>kulash</item>
+    <item>parkash</item>
+    <item>Binod</item>
+    <item>Yuvraj</item>
+    <item>Nikhil</item>
+    <item>komal</item>
+    <item>Nabin</item>
+    <item>Noor</item>
+    <item>Nabi</item>
+    <item>yamraj</item>
+    <item>abdullha</item>
+    <item>Rachit</item>
+</string-array>
+
+</resources>
